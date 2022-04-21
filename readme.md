@@ -3,6 +3,9 @@
 ## 概要
 当アダプタは XGecu TL866II PLUS プログラマにて 2716/2732 UV-EPROM 書き込みのための 25V/21V を供給するサポートアダプターです。TL866II PLUS の書き込み電圧 18V を検出すると ROM の VPP ピンに 25V/21V を供給します。
 
+![Image 1](Materials/photo1.jpg)
+
+![Image 2](Materials/photo2.jpg)
 
 ## 部品表
 本来は部品の種類別にソートするものですが、購入先別に分けて記載しています。
