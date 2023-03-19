@@ -16,7 +16,7 @@
 |----|----|----|----|----|
 |U1|DCDCコンバーター制御用IC NJM2360AD|https://akizukidenshi.com/catalog/g/gI-12365/|1|MC34063A も使えます|
 |U1|丸ピンICソケット ( 8P)|https://akizukidenshi.com/catalog/g/gP-00035/|1|
-|Q1|トランジスタ 2SA733L-K-T92-K 60V150mA|https://akizukidenshi.com/catalog/g/gI-11428/|1|TO-92ECB 手持ちの 2SA1015 などもOK|
+|Q1|トランジスタ 2SA733L-K-T92-K 60V150mA|https://akizukidenshi.com/catalog/g/gI-11427/|1|TO-92ECB 手持ちの 2SA1015 などもOK|
 |Q2|トランジスタ 2SC945L-K-T92-K 60V150mA|https://akizukidenshi.com/catalog/g/gI-11428/|1|TO-92ECB 手持ちの 2SC1815 などもOK|
 |D1,D3|ショットキーバリアダイオード 40V1A 11EQS04|https://akizukidenshi.com/catalog/g/gI-11363/|2|
 |D2|定電圧ダイオード(ツェナーダイオード) 15V500mW GDZJ15C|https://akizukidenshi.com/catalog/g/gI-07498/|1|DO-34|
